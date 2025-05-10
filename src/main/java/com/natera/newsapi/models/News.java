@@ -17,4 +17,5 @@ public class News implements Serializable {
     private String link;
     private String description;
     private String publishedDate;
+    private String mediaUrl;
 }
